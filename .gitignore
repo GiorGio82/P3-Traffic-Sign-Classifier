@@ -1,3 +1,7 @@
+Resources&Playgroung*
+logs
+checkpoint
+123
 data
 *.DS_Store
 .ipynb_checkpoints
@@ -5,3 +9,7 @@ data
 models
 *.swp
 *.p
+tmp
+saved_model-*
+lenet.*
+additional-signs/original_pictures

@@ -17,7 +17,10 @@ The goals / steps of this project are the following:
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
 
+
 ### Start from here
+[Project writeup](https://github.com/GiorGio82/P3-Traffic-Sign-Classifier/blob/master/writeup.md)
+
 Here is a link to my [project code](https://github.com/GiorGio82/P3-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.ipynb)
 
 The html that shows the execution of the entire code is called `Traffic_Sign_Classifier.html` and it is available [here](https://github.com/GiorGio82/P3-Traffic-Sign-Classifier/blob/master/Traffic_Sign_Classifier.html)

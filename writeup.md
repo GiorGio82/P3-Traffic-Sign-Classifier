@@ -174,7 +174,7 @@ The [figure 7](#preprocessing_one_image) shows one (random) picture form the tra
 </tr>
 </table>
 
-I tried out different values of `augment_factor` and I share two of them with this submission. The first is a dataset with augemtation factor 0 (that is, all classes have 2010 images) and the second with augmentation factor 100 (that is all classes have have 4020 images each).
+I tried out different values of `augment_factor` and I share the results of two of them with this submission (not the actual pickle files because they are quite large and easily generable with the source code, just set the flags at the beginning of the notebook). The first is a dataset with augemtation factor 0 (that is, all classes have 2010 images) and the second with augmentation factor 100 (that is all classes have have 4020 images each).
 
 The difference between the original data set and the two augmented datasets are mainly two: (1) the classes of the augmented datasets are balanced in terms of number of images and (2) the augmented datasets contain aritificial images that help generalizing the learning process. 
 
@@ -267,7 +267,7 @@ For performance validation I used the provided validation dataset. Before passin
 
 The same pre-processing is applied to the test dataset.
 
-I add to the submission several datasets (where the images are already preprocessed) as pickle files. I do not add the original datasets. Specifically: 
+Once I have created the datasets for learning and evaluating, I created new pickle files (too large to submit. Specifically: 
 
 ```
 training_file= '../traffic-signs-data/train_clahe_norm_no_aug.p'

@@ -1,14 +1,12 @@
 traffic_sign_classifier_model.drawio
 *.svg
 Resources&Playgroung*
-logs
 checkpoint
 123
 data
 *.DS_Store
 .ipynb_checkpoints
 *.h5
-models
 *.swp
 *.p
 tmp
